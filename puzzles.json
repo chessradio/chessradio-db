@@ -6,7 +6,7 @@
       "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/1_challenge_female1.mp3",
       "solution": {
         "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/1_solution_female1.mp3",
-        "imageAsset": "assets/puzzles/1.jpeg"
+        "imageAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/1.jpeg"
       }
     },
     {
@@ -16,7 +16,7 @@
       "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/2_challenge_female1.mp3",
       "solution": {
         "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/2_solution_female1.mp3",
-        "imageAsset": "assets/puzzles/2.jpeg"
+        "imageAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/2.jpeg"
       }
     },
     {
@@ -26,7 +26,7 @@
       "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/3_challenge_female1.mp3",
       "solution": {
         "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/3_solution_female1.mp3",
-        "imageAsset": "assets/puzzles/3.jpeg"
+        "imageAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/3.jpeg"
       }
     },
     {
@@ -36,7 +36,7 @@
       "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/4_challenge_female1.mp3",
       "solution": {
         "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/4_solution_female1.mp3",
-        "imageAsset": "assets/puzzles/4.jpeg"
+        "imageAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/4.jpeg"
       }
     }
     ]
