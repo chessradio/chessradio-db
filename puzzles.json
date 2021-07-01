@@ -11,7 +11,7 @@
     },
     {
       "title": "Puzzle 2",
-      "level": "EASY",
+      "level": "MEDIUM",
       "playingAs": "WHITE",
       "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/2_challenge_female1.mp3",
       "solution": {
@@ -31,8 +31,8 @@
     },
     {
       "title": "Puzzle 4",
-      "level": "EASY",
-      "playingAs": "WHITE",
+      "level": "MEDIUM",
+      "playingAs": "BLACK",
       "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/4_challenge_female1.mp3",
       "solution": {
         "audioAsset": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/puzzles/4_solution_female1.mp3",
