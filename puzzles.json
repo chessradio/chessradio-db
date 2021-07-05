@@ -1,1 +1,233 @@
-{"02Fvr": {"rating": "1200", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/02Fvr.mp3", "player": "white", "url": "https://lichess.org/pzwG92Qv#113", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/02Fvr.png", "pieces": 4, "fen": "5K2/r5P1/5k2/8/8/8/8/8 w - - 7 57", "move": "a7a8"}, "0JB1V": {"rating": "1149", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0JB1V.mp3", "player": "white", "url": "https://lichess.org/JcvgQVvQ#99", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0JB1V.png", "pieces": 4, "fen": "8/7P/6q1/5k2/7K/8/8/8 w - - 2 50", "move": "g6g4"}, "0JV7w": {"rating": "1072", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0JV7w.mp3", "player": "black", "url": "https://lichess.org/YHRMPUpS/black#118", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0JV7w.png", "pieces": 4, "fen": "8/8/8/8/8/2Q1K3/1p6/3k4 b - - 17 59", "move": "c3d2"}, "0MZvc": {"rating": "1479", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0MZvc.mp3", "player": "black", "url": "https://lichess.org/50LMvqs8/black#130", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0MZvc.png", "pieces": 4, "fen": "8/8/8/8/8/5K2/6pk/4Q3 b - - 6 65", "move": "e1h4"}, "0iLIf": {"rating": "1093", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0iLIf.mp3", "player": "white", "url": "https://lichess.org/2zaBNNK5#121", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0iLIf.png", "pieces": 4, "fen": "8/KP6/2q5/k7/8/8/8/8 w - - 18 61", "move": "c6a6"}, "0wnnN": {"rating": "1025", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0wnnN.mp3", "player": "white", "url": "https://lichess.org/qd2iuLs9#127", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0wnnN.png", "pieces": 4, "fen": "8/8/8/8/6R1/7k/1r6/7K w - - 0 64", "move": "b2h2"}, "1PQIH": {"rating": "1141", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/1PQIH.mp3", "player": "white", "url": "https://lichess.org/kR4WQlWa#121", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/1PQIH.png", "pieces": 4, "fen": "6K1/2r4P/6k1/8/8/8/8/8 w - - 0 61", "move": "c7c8"}, "1lFlr": {"rating": "991", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/1lFlr.mp3", "player": "black", "url": "https://lichess.org/aILGXXNU/black#150", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/1lFlr.png", "pieces": 4, "fen": "8/8/8/8/8/1K6/3Q4/qk6 b - - 1 75", "move": "d2b2"}, "2I4J0": {"rating": "1269", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/2I4J0.mp3", "player": "black", "url": "https://lichess.org/edBlUiB7/black#162", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/2I4J0.png", "pieces": 4, "fen": "5kr1/1R6/5K2/8/8/8/8/8 b - - 25 81", "move": "b7b8"}, "2qvPZ": {"rating": "816", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/2qvPZ.mp3", "player": "white", "url": "https://lichess.org/JAZ36YoE#141", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/2qvPZ.png", "pieces": 4, "fen": "8/8/8/2k5/K7/4r3/8/1R6 w - - 6 71", "move": "e3a3"}, "36EwP": {"rating": "1150", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/36EwP.mp3", "player": "black", "url": "https://lichess.org/zrFR2CXi/black#116", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/36EwP.png", "pieces": 4, "fen": "1R6/8/8/8/8/2K5/k7/r7 b - - 12 58", "move": "b8a8"}, "3UB9n": {"rating": "857", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3UB9n.mp3", "player": "white", "url": "https://lichess.org/n5kaqUjJ#141", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3UB9n.png", "pieces": 4, "fen": "5K2/4P3/5k2/8/8/7r/8/8 w - - 0 71", "move": "h3h8"}, "3Wz7Y": {"rating": "952", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3Wz7Y.mp3", "player": "black", "url": "https://lichess.org/uAW5dkCA/black#132", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3Wz7Y.png", "pieces": 4, "fen": "8/8/8/3q4/8/6K1/5Q2/6k1 b - - 5 66", "move": "f2e1"}, "3dquW": {"rating": "988", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3dquW.mp3", "player": "black", "url": "https://lichess.org/lOFokSPz/black#118", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3dquW.png", "pieces": 4, "fen": "8/8/8/6R1/8/3K4/2p5/3k4 b - - 5 59", "move": "g5g1"}, "3erfR": {"rating": "1217", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3erfR.mp3", "player": "black", "url": "https://lichess.org/FF6X264U/black#132", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3erfR.png", "pieces": 4, "fen": "8/8/8/8/8/1K6/p3R3/1k6 b - - 3 66", "move": "e2e1"}, "3itHG": {"rating": "1438", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3itHG.mp3", "player": "black", "url": "https://lichess.org/x3i3BQAC/black#142", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3itHG.png", "pieces": 4, "fen": "8/6R1/8/8/8/5K2/6pk/8 b - - 3 71", "move": "g7h7"}, "46PSr": {"rating": "1490", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/46PSr.mp3", "player": "black", "url": "https://lichess.org/FSYlwWJ9/black#132", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/46PSr.png", "pieces": 4, "fen": "8/8/r7/8/8/k1K5/8/1R6 b - - 0 66", "move": "b1a1"}, "4EU24": {"rating": "911", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4EU24.mp3", "player": "white", "url": "https://lichess.org/6dPil1tp#141", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4EU24.png", "pieces": 4, "fen": "1K6/7r/1k6/8/8/8/8/2R5 w - - 2 71", "move": "h7h8"}, "4F4Pc": {"rating": "600", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4F4Pc.mp3", "player": "black", "url": "https://lichess.org/sBTeKMEl/black#138", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4F4Pc.png", "pieces": 4, "fen": "8/8/8/8/8/6K1/4Q3/6kq b - - 3 69", "move": "e2g2"}, "4XjDI": {"rating": "906", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4XjDI.mp3", "player": "black", "url": "https://lichess.org/ef6IlAjW/black#136", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4XjDI.png", "pieces": 4, "fen": "8/7r/8/5K1k/8/8/8/R7 b - - 11 68", "move": "a1h1"}, "4Ziba": {"rating": "661", "audio": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4Ziba.mp3", "player": "black", "url": "https://lichess.org/NbiGcwAn/black#198", "image": "https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4Ziba.png", "pieces": 4, "fen": "1krR4/8/1K6/8/8/8/8/8 b - - 60 99", "move": "d8c8"}}
+[
+    {
+       "id":"02Fvr",
+       "rating":"1200",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/02Fvr.mp3",
+       "player":"white",
+       "url":"https://lichess.org/pzwG92Qv#113",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/02Fvr.png",
+       "pieces":4,
+       "fen":"5K2/r5P1/5k2/8/8/8/8/8 w - - 7 57",
+       "move":"a7a8"
+    },
+    {
+       "id":"0JB1V",
+       "rating":"1149",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0JB1V.mp3",
+       "player":"white",
+       "url":"https://lichess.org/JcvgQVvQ#99",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0JB1V.png",
+       "pieces":4,
+       "fen":"8/7P/6q1/5k2/7K/8/8/8 w - - 2 50",
+       "move":"g6g4"
+    },
+    {
+       "id":"0JV7w",
+       "rating":"1072",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0JV7w.mp3",
+       "player":"black",
+       "url":"https://lichess.org/YHRMPUpS/black#118",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0JV7w.png",
+       "pieces":4,
+       "fen":"8/8/8/8/8/2Q1K3/1p6/3k4 b - - 17 59",
+       "move":"c3d2"
+    },
+    {
+       "id":"0MZvc",
+       "rating":"1479",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0MZvc.mp3",
+       "player":"black",
+       "url":"https://lichess.org/50LMvqs8/black#130",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0MZvc.png",
+       "pieces":4,
+       "fen":"8/8/8/8/8/5K2/6pk/4Q3 b - - 6 65",
+       "move":"e1h4"
+    },
+    {
+       "id":"0iLIf",
+       "rating":"1093",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0iLIf.mp3",
+       "player":"white",
+       "url":"https://lichess.org/2zaBNNK5#121",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0iLIf.png",
+       "pieces":4,
+       "fen":"8/KP6/2q5/k7/8/8/8/8 w - - 18 61",
+       "move":"c6a6"
+    },
+    {
+       "id":"0wnnN",
+       "rating":"1025",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/0wnnN.mp3",
+       "player":"white",
+       "url":"https://lichess.org/qd2iuLs9#127",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/0wnnN.png",
+       "pieces":4,
+       "fen":"8/8/8/8/6R1/7k/1r6/7K w - - 0 64",
+       "move":"b2h2"
+    },
+    {
+       "id":"1PQIH",
+       "rating":"1141",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/1PQIH.mp3",
+       "player":"white",
+       "url":"https://lichess.org/kR4WQlWa#121",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/1PQIH.png",
+       "pieces":4,
+       "fen":"6K1/2r4P/6k1/8/8/8/8/8 w - - 0 61",
+       "move":"c7c8"
+    },
+    {
+       "id":"1lFlr",
+       "rating":"991",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/1lFlr.mp3",
+       "player":"black",
+       "url":"https://lichess.org/aILGXXNU/black#150",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/1lFlr.png",
+       "pieces":4,
+       "fen":"8/8/8/8/8/1K6/3Q4/qk6 b - - 1 75",
+       "move":"d2b2"
+    },
+    {
+       "id":"2I4J0",
+       "rating":"1269",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/2I4J0.mp3",
+       "player":"black",
+       "url":"https://lichess.org/edBlUiB7/black#162",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/2I4J0.png",
+       "pieces":4,
+       "fen":"5kr1/1R6/5K2/8/8/8/8/8 b - - 25 81",
+       "move":"b7b8"
+    },
+    {
+       "id":"2qvPZ",
+       "rating":"816",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/2qvPZ.mp3",
+       "player":"white",
+       "url":"https://lichess.org/JAZ36YoE#141",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/2qvPZ.png",
+       "pieces":4,
+       "fen":"8/8/8/2k5/K7/4r3/8/1R6 w - - 6 71",
+       "move":"e3a3"
+    },
+    {
+       "id":"36EwP",
+       "rating":"1150",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/36EwP.mp3",
+       "player":"black",
+       "url":"https://lichess.org/zrFR2CXi/black#116",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/36EwP.png",
+       "pieces":4,
+       "fen":"1R6/8/8/8/8/2K5/k7/r7 b - - 12 58",
+       "move":"b8a8"
+    },
+    {
+       "id":"3UB9n",
+       "rating":"857",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3UB9n.mp3",
+       "player":"white",
+       "url":"https://lichess.org/n5kaqUjJ#141",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3UB9n.png",
+       "pieces":4,
+       "fen":"5K2/4P3/5k2/8/8/7r/8/8 w - - 0 71",
+       "move":"h3h8"
+    },
+    {
+       "id":"3Wz7Y",
+       "rating":"952",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3Wz7Y.mp3",
+       "player":"black",
+       "url":"https://lichess.org/uAW5dkCA/black#132",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3Wz7Y.png",
+       "pieces":4,
+       "fen":"8/8/8/3q4/8/6K1/5Q2/6k1 b - - 5 66",
+       "move":"f2e1"
+    },
+    {
+       "id":"3dquW",
+       "rating":"988",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3dquW.mp3",
+       "player":"black",
+       "url":"https://lichess.org/lOFokSPz/black#118",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3dquW.png",
+       "pieces":4,
+       "fen":"8/8/8/6R1/8/3K4/2p5/3k4 b - - 5 59",
+       "move":"g5g1"
+    },
+    {
+       "id":"3erfR",
+       "rating":"1217",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3erfR.mp3",
+       "player":"black",
+       "url":"https://lichess.org/FF6X264U/black#132",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3erfR.png",
+       "pieces":4,
+       "fen":"8/8/8/8/8/1K6/p3R3/1k6 b - - 3 66",
+       "move":"e2e1"
+    },
+    {
+       "id":"3itHG",
+       "rating":"1438",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/3itHG.mp3",
+       "player":"black",
+       "url":"https://lichess.org/x3i3BQAC/black#142",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/3itHG.png",
+       "pieces":4,
+       "fen":"8/6R1/8/8/8/5K2/6pk/8 b - - 3 71",
+       "move":"g7h7"
+    },
+    {
+       "id":"46PSr",
+       "rating":"1490",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/46PSr.mp3",
+       "player":"black",
+       "url":"https://lichess.org/FSYlwWJ9/black#132",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/46PSr.png",
+       "pieces":4,
+       "fen":"8/8/r7/8/8/k1K5/8/1R6 b - - 0 66",
+       "move":"b1a1"
+    },
+    {
+       "id":"4EU24",
+       "rating":"911",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4EU24.mp3",
+       "player":"white",
+       "url":"https://lichess.org/6dPil1tp#141",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4EU24.png",
+       "pieces":4,
+       "fen":"1K6/7r/1k6/8/8/8/8/2R5 w - - 2 71",
+       "move":"h7h8"
+    },
+    {
+       "id":"4F4Pc",
+       "rating":"600",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4F4Pc.mp3",
+       "player":"black",
+       "url":"https://lichess.org/sBTeKMEl/black#138",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4F4Pc.png",
+       "pieces":4,
+       "fen":"8/8/8/8/8/6K1/4Q3/6kq b - - 3 69",
+       "move":"e2g2"
+    },
+    {
+       "id":"4XjDI",
+       "rating":"906",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4XjDI.mp3",
+       "player":"black",
+       "url":"https://lichess.org/ef6IlAjW/black#136",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4XjDI.png",
+       "pieces":4,
+       "fen":"8/7r/8/5K1k/8/8/8/R7 b - - 11 68",
+       "move":"a1h1"
+    },
+    {
+       "id":"4Ziba",
+       "rating":"661",
+       "audio":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/audios/4Ziba.mp3",
+       "player":"black",
+       "url":"https://lichess.org/NbiGcwAn/black#198",
+       "image":"https://raw.githubusercontent.com/chessradio/chessradio-db/main/images/4Ziba.png",
+       "pieces":4,
+       "fen":"1krR4/8/1K6/8/8/8/8/8 b - - 60 99",
+       "move":"d8c8"
+    }
+ ]
